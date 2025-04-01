@@ -1,4 +1,2 @@
 streamlit
 regex
-time
-secrets
